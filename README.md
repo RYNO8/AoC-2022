@@ -1,2 +1,3 @@
 # AoC-2022
-My solutions to advent of code
+
+# No. Do them yourself >:)
